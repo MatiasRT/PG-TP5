@@ -1,0 +1,3 @@
+Nana documents are in "releases" in Github. 
+You should put the folder in the path "PG-TP5\TP5\Library". 
+If you change the folder name ("nana") it will not work.
