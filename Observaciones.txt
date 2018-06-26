@@ -1,0 +1,5 @@
+La libreria que recibí no tiene un metodo para que me devuelva los resultados de la lista, asi que los tuve que hardcodear sin siquiera utilizar un metodo, sino no habia manera. Trate de arreglarlo pero no pude.
+(Use solamente la creacion de los personajes, y les asigne a "nombre" y a "puntos" unos valores).
+Como no utilice los metodos de la libreria, esta tambien ordenado a mano para que se muestre de mayor a menor, ya que no habia un metodo por separado de ordenar.
+La libreria no daba la suficiente informacion de como utilizarla.
+La libreria no deberia encargarse de mostrar por pantalla, sino que deberia tener un metodo para usar los datos.
